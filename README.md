@@ -3,7 +3,7 @@
 
 ### Supported Versions
 
-|   Backbone.BabySitter  |   Backbone.BabySitter  |
+|   Backbone.BabySitter  |   Maven  |
 |:----------------------:|:----------------------:|
 |       0.0.6            |          0.0.6         |
 
